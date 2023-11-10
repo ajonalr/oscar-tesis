@@ -5,6 +5,8 @@
    <div class="row">
       <div class="col">
 
+      <p class="text-center">REPORTE DE ESTUDIANTES</p>
+
          <table class="table table-striped table-hover" id="table_id" data-page-length="15">
             <thead class="thead">
                <tr>

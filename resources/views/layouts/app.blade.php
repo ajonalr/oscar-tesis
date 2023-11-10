@@ -33,6 +33,14 @@
 
 <body>
 
+<div class="container-fluid"></div>
+    <div class="row">
+        <div class="col text-center">
+            <img src="{{asset('logos/logo.png')}}" style="width: 7%;" alt="">
+        </div>
+    </div>
+</div>
+
 
     <div class="container-fluid d-flex align-items-center">
 
